@@ -1,4 +1,4 @@
-# React Router Dom 6.4 in depth
+# :cupid: React Router Dom 6.4 in depth
 
 This repo contains a simple project from [NetNinja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iVKmtNuCeIswnQ97in2GGf) for practing
 react router dom 6.4 and new features.
@@ -30,7 +30,9 @@ react router dom 6.4 and new features.
 
 ### Run the project
 
-1. `git clone `
-2. `cd `
-3. `npm run json-server`
-4. `json-server`npm run start`
+1. Open your terminal, copy and paste the codes below
+2. `git clone https://github.com/beatriz-dadalto/react-router-dom-v6.4-in-depth.git`
+3. `cd react-router-dom-v6.4-in-depth`
+4. `npm run json-server`
+5. `json-server`npm run start`
+

@@ -34,5 +34,5 @@ react router dom 6.4 and new features.
 2. `git clone https://github.com/beatriz-dadalto/react-router-dom-v6.4-in-depth.git`
 3. `cd react-router-dom-v6.4-in-depth`
 4. `npm run json-server`
-5. `json-server`npm run start`
+5. `npm run start`
 
